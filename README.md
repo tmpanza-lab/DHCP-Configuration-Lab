@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this lab exercise is to familiarize yourself with the configuration and management of Dynamic Host Configuration Protocol (DHCP) in a small campus network environment. In this lab you will perform a DHCP configuration for a small campus network. You will configure a Router’s outside interface as a DHCP client. You will then set up DCHP services, using a Cisco router first and then an external DHCP server. The external DHCP server is inside the campus LAN but outside the router.
+The objective of this lab exercise is to familiarize myself with the configuration and management of Dynamic Host Configuration Protocol (DHCP) in a small campus network environment. In this lab I will perform a DHCP configuration for a small campus network. I will configure a Router’s outside interface as a DHCP client. I will then set up DCHP services, using a Cisco router first and then an external DHCP server. The external DHCP server is inside the campus LAN but outside the router.
 
 ### Skills Learned
 
@@ -24,8 +24,7 @@ The objective of this lab exercise is to familiarize yourself with the configura
 
 ## Steps
 
-Note that the external DHCP server at 10.10.20.10 will not be used until the last
-part of the lab.
+Note that the external DHCP server at 10.10.20.10 will not be used until the last part of the lab.
 
 ## Lab Topology
 ![image](https://github.com/user-attachments/assets/50aa8524-198c-400b-8db2-7c2806d41189)
