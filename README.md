@@ -18,7 +18,6 @@ I will configure a router outside interface as a DHCP client. I will then set up
 
 - Cisco IOS Vendor-specific CLI.
 - Layer 2 or Layer 3 Switches (Physical or Virtual).
-- FortiOS Command Line Interface (CLI)
 - Routers (Physical or Virtual).
 - GNS3 for simulated network devices (e.g., routers, PCs, or switches) to test
 
