@@ -17,6 +17,9 @@ I will configure a router outside interface as a DHCP client. I will then set up
 ### Tools Used
 
 - Cisco IOS Vendor-specific CLI.
+- Windows Server 2022 (VM)
+- Windows 10 x64 (VM)
+- VMware Workstation Pro
 - Layer 2 or Layer 3 Switches (Physical or Virtual).
 - Routers (Physical or Virtual).
 - GNS3 for simulated network devices (e.g., routers, PCs, or switches) to test
